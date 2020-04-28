@@ -1,0 +1,1 @@
+//Don't store sensitive data like this on the client-side
